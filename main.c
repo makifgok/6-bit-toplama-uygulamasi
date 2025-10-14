@@ -53,7 +53,7 @@ int main() {
     num1 = ch1 - '0';
     num2 = ch2 - '0';
 
-    // --- GÝRDÝ KONTROLÜ ---
+    // --- input kontrolu ---
     // Eðer yapýlan çýkarma iþlemi sonucu elde edilen sayý 0-9 aralýðýnýn dýþýndaysa,
     // bu kullanýcýnýn bir rakam girmediði (örn: 'a' veya '$') anlamýna gelir.
     if (num1 < 0 || num1 > 9 || num2 < 0 || num2 > 9) {
