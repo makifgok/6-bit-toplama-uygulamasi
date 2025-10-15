@@ -2,7 +2,7 @@
 
 **Yazar:** M.Akif Gök
 **Tarih:** 15.10.2025
-**Ders:** [Buraya Dersin Adını Yazın]
+**Ders:** ALGORİTMA VE PROGRAMLAMA
 
 Bu proje, belirtilen ders kapsamında geliştirilmiş olup, Unix öncesi 6-bit kodlama sistemlerinin kısıtlı Girdi/Çıktı (G/Ç) ortamını simüle eden bir C uygulamasıdır.
 
