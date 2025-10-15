@@ -1,5 +1,3 @@
-
-Bu program, Unix öncesi sistemlerin kısıtlı Girdi/Çıktı (I/O) ortamını simüle eder.
 # 6-Bit Kodlama Simülasyonu: Karakter Tabanlı Toplama Uygulaması
 
 **Yazar:** M.Akif Gök
